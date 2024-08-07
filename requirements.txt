@@ -1,0 +1,11 @@
+torch
+torchvision
+PyYAML
+numpy
+matplotlib
+notebook
+boto3
+mypy-boto3-s3
+flask
+pillow
+-e .
